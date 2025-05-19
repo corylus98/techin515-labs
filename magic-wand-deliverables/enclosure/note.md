@@ -19,3 +19,6 @@ The wand emerges from a milkshake cup. At first glance, it looks like leftover f
 The straw as a wand handle subtly plays on the idea of childhood creativity—when anything, even a straw, could become a sword, a telescope, or a wand. The milkshake cup acts as both a stand and a cloak, reinforcing the idea of "magic in disguise."
 - Everyday Magic:
 This design reminds users that magic doesn't have to be flashy. It exists in everyday moments: in reuse, in play, in small wonders. Our wand isn’t from a fantasy world—it’s from our world.
+
+## Battery Choice
+- Select LP603449 3.7V 1100mAh 4.1Wh for power supply.
