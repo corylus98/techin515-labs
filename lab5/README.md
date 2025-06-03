@@ -2,7 +2,7 @@
 ## Discussion
 - Is server's confidence always higher than wand's confidence from your observations? What is your hypothetical reason for the observation?
 
-The server's confidence is not always higher than the wand's confidence, but it tends to be higher on average. This is likely because the server model has more computational resources and better-trained models. The local device uses a lightweight model optimized for speed and limited hardware, which may produce less confident predictions.
+In theory, the server's confidence would not always be higher than the wand's confidence, but it tends to be higher on average. This is likely because the server model has more computational resources and better-trained models. The local device uses a lightweight model optimized for speed and limited hardware, which may produce less confident predictions.
 
 - Sketch the data flow of this lab.
 
